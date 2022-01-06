@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BFM CONSULTING",
-    "currentPage": "page1.html",
+    "currentPage": "brands.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1611,7 +1611,7 @@
         }
       ]
     },
-    "page1.html": {
+    "brands.html": {
       "settings": {
         "title": "Brands",
         "meta_descr": "WHAT WE DO:\nOUR CLIENTS FIRST ! ",
